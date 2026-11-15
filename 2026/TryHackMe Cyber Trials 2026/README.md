@@ -11,9 +11,9 @@ Only once the challenges go public I will be able to publish writeups
 These write-ups form part of my ongoing development in **penetration testing, web application security and offensive cybersecurity**, alongside my preparation for industry certifications and practical security assessments.
 
 ## Placed 18/27 Teams
-Team name: City St George's, Un
-Partipants during the CTF: matw0
-Challenges Solved: 4/12
+Team name: City St George's, Un \n
+Partipants during the CTF: matw0 \n
+Challenges Solved: 4/12 \n
 Score: 810/1740
 
 ## Self Reflection
