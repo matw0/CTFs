@@ -19,4 +19,4 @@ I'm looking forward to applying what I've learned and allocating more focused ti
 
 ## Participation certificate
 
-[View my CyberZerk CTF 2026 Certificate](./Certificate%20of%20participation%20%C2%B7%20matw%20%C2%B7%20CyberZerk%20CTF%202026.pdf)
+![View my CyberZerk CTF 2026 Certificate](./Certificate%20of%20participation%20%C2%B7%20matw%20%C2%B7%20CyberZerk%20CTF%202026.pdf)
